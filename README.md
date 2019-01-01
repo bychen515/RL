@@ -1,5 +1,12 @@
 # Reinforcement learning
 
+Book
+----------------
+**Reinforcement Learning: An Introduction**
+
+[Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction update](http://incompleteideas.net/book/the-book-2nd.html)
+
+
 Article
 -----------------
 [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by [Yuxi Li](https://medium.com/@yuxili)
