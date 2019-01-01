@@ -6,10 +6,10 @@ Book
 
 [Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 
-
-Article
+Survey
 -----------------
 [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by [Yuxi Li](https://medium.com/@yuxili)
+[An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
 
 Tutorial
 -----------------
