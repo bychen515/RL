@@ -1,1 +1,1 @@
-# RL
+# Reinforcement learning
