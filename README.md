@@ -4,7 +4,7 @@ Book
 ----------------
 **Reinforcement Learning: An Introduction**
 
-[Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction update](http://incompleteideas.net/book/the-book-2nd.html)
+[Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 
 
 Article
