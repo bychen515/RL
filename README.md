@@ -28,3 +28,7 @@ Tutorial
 Codes
 -------------------
 [DeepMind](https://github.com/deepmind/trfl)
+
+Githubs
+--------------------------
+[强化学习从入门到放弃的资料](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
